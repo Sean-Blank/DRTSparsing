@@ -1,10 +1,10 @@
-# TreeDRSparsing
+#DRTSparsing
 The codes for the paper "Discourse Representation Parsing for Sentences and Documents" ACL 2019.
+and for the paper "DRTS parsing with structure-aware encoding and decoding" ACL 2020.
 
-## The requirements
+sprry for the wrong url http://github.com/SeanBlank/DRTSparsing
 
-    python 2.7
-    pytorch 0.4.1
+We use the same setting from TreeDRSparsing:
   
 ## Prepare
 Clone the codes on the branch DRTS
